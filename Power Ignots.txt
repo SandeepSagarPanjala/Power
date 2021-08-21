@@ -5,3 +5,5 @@ Silver Ignot 7 coppers
 Gold Ignot 5 silvers
 
 Diamond Ignot 20 Golds
+
+Uranium 50 Diamonds
